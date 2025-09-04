@@ -1,4 +1,4 @@
-# Caddy V2ray SSL TSL Websocket 整合镜像
+# Caddy V2ray SSL TSL Websocket 整合镜像 -目前使用docker-compose 部署了125 服务器
 
 [![Build Docker Images](https://github.com/anerg2046/Caddy_V2ray/actions/workflows/workflow.yaml/badge.svg)](https://github.com/anerg2046/Caddy_V2ray/actions/workflows/workflow.yaml)
 
