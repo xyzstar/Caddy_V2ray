@@ -136,7 +136,6 @@ docker rmi anerg/v2ray
 然后再从新启动即可
 
 ### 相关
-[JustHost.ru](https://justhost.ru/?ref=69692) 北方联通推荐使用，价格便宜不限量
 
 [CloudCone](https://app.cloudcone.com/?ref=7690) 经常有活动，价格很合适
 
